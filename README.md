@@ -1,2 +1,2 @@
 # Python-UDP
-server calculate factorial from client and sent back
+server calculate factorial from client and send back
